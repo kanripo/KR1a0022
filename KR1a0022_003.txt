@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀易詳說
-#+DATE: 2015-09-23 09:34:17
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 21:54:04.533276
+#+PROPERTY: ID KR1a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1a0022_WYG_003-1a>¶
 欽定四庫全書¶
 　讀易詳説卷三　　　　　宋　李光　撰¶
@@ -758,4 +760,3 @@
 　¶
 　¶
 　讀易詳説卷三¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀易詳說
-#+DATE: 2015-09-23 09:34:17
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 21:54:04.489159
+#+PROPERTY: ID KR1a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1a0022_WYG_001-1a>¶
 欽定四庫全書¶
 　讀易詳說卷一　　　　　宋　李光　撰¶
@@ -650,4 +652,3 @@
 　稍遲囬九錫之命且不免死不然豈惇單辭所能沮¶
 　之哉¶
 　讀易詳説卷一¶
-

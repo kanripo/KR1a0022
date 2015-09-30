@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀易詳說
-#+DATE: 2015-09-23 09:34:17
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 21:54:04.664010
+#+PROPERTY: ID KR1a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1a0022_WYG_009-1a>¶
 欽定四庫全書¶
 　讀易詳說卷九　　　　　　宋　李光　撰¶
@@ -830,4 +832,3 @@
 　也上九以陽剛處巽之上而下无應援資財殫竭威¶
 　權去手雖索為匹夫不可得守此而不知變凶之道也¶
 　讀易詳説卷九¶
-
